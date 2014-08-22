@@ -1,13 +1,13 @@
 Codebook
 ========================================
 
-# Introduction
+## Introduction
 This is the codebook for the Getting and Cleaning Data project. Includes the script run_analysis.R, a codebook, the result file tidy.txt (on 22/08/2014), and this readme.md.
 
-# Data Source 
+## Data Source 
 The raw data can be found in the following url http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-# Variables
+## Variables
 
 In the raw data there is the definition for the variables in features_info.txt
 
